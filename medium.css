@@ -1,16 +1,3 @@
-h1, h3, h5{
+h1{
     color: rebeccapurple;
-}
-
-h2, h4, h6{
-    color: greenyellow;
-}
-p{
-    background-color: red;
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 2px 2px 5px grey;
-}
-i, b, u{
-    background: #000;
 }
